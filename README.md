@@ -1,5 +1,9 @@
 🚀 Vivek Kumar — Full Stack Java Developer Portfolio
-<p align="center"> <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Java-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Level-Production%20Ready-black?style=for-the-badge" /> </p>
+<<p align="center"> 
+  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Java-blue?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/Level-Production%20Ready-black?style=for-the-badge" /> 
+</p>
 ✨ About Me
 
 Hi! I’m Vivek Kumar, a passionate Full Stack Java Developer who loves crafting scalable backend systems and premium frontend experiences.
@@ -58,9 +62,10 @@ Glassmorphism | Animated Gradients | Micro-interactions | Responsive Design
 
 📸 Preview
 <img width="1825" height="929" alt="portfolio-preview" src="https://github.com/user-attachments/assets/da3e58c1-a530-4bbb-b87b-96ff24206684" />
-📂 Project Structure
+---
+
+## 📂 Project Structure
 portfolio/
-│
 ├── index.html
 ├── css/
 │   └── style.css
