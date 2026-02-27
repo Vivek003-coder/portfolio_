@@ -72,8 +72,6 @@ portfolio/
 │   └── preview.png
 └── README.md
 ⚙️ Run Locally
-# Clone the repository
-git clone https://github.com/Vivek003-coder/portfolio.git
 
 # Navigate into project folder
 cd portfolio
